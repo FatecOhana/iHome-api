@@ -15,6 +15,16 @@ import org.springframework.stereotype.Service;
 import java.util.HashSet;
 import java.util.UUID;
 
+/**
+ * TRABALHO IMOBILIARIA (POO): DADOS DOS INTEGRANTES
+ *
+ * @author KAROLYNE COELHO DE LIMA
+ * @author GABRIELA SILVA DE FARIAS BETINI
+ * @author KELVEN BENTO FONTES
+ * @author VICENZO GIOVANI CARRA LIMA
+ * @author GUILHERME PERES LINS DA PALMA
+ * @author DOUGLAS WALLACE RODRIGUES JUNIOR
+ */
 @Service
 public class CasaService implements UniqueRegisterOperationsInterface<Casa> {
 

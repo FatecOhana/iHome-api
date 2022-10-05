@@ -17,6 +17,16 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * TRABALHO IMOBILIARIA (POO): DADOS DOS INTEGRANTES
+ *
+ * @author KAROLYNE COELHO DE LIMA
+ * @author GABRIELA SILVA DE FARIAS BETINI
+ * @author KELVEN BENTO FONTES
+ * @author VICENZO GIOVANI CARRA LIMA
+ * @author GUILHERME PERES LINS DA PALMA
+ * @author DOUGLAS WALLACE RODRIGUES JUNIOR
+ */
 @RestController
 @Tag(name = "Apartamento", description = "Endpoint responsavel por Cadatrar e Gerenciar as Apartamentos")
 public class ApartamentoRestEndpoint {

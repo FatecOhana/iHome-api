@@ -11,6 +11,16 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
+/**
+ * TRABALHO IMOBILIARIA (POO): DADOS DOS INTEGRANTES
+ *
+ * @author KAROLYNE COELHO DE LIMA
+ * @author GABRIELA SILVA DE FARIAS BETINI
+ * @author KELVEN BENTO FONTES
+ * @author VICENZO GIOVANI CARRA LIMA
+ * @author GUILHERME PERES LINS DA PALMA
+ * @author DOUGLAS WALLACE RODRIGUES JUNIOR
+ */
 @RestControllerAdvice
 public class GlobalExceptionHandlerController {
 

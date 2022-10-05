@@ -8,6 +8,16 @@ import lombok.Setter;
 import java.util.Collections;
 import java.util.Set;
 
+/**
+ * TRABALHO IMOBILIARIA (POO): DADOS DOS INTEGRANTES
+ *
+ * @author KAROLYNE COELHO DE LIMA
+ * @author GABRIELA SILVA DE FARIAS BETINI
+ * @author KELVEN BENTO FONTES
+ * @author VICENZO GIOVANI CARRA LIMA
+ * @author GUILHERME PERES LINS DA PALMA
+ * @author DOUGLAS WALLACE RODRIGUES JUNIOR
+ */
 @AllArgsConstructor
 @Getter
 @Setter

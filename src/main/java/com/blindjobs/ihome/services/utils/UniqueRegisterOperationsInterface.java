@@ -4,6 +4,16 @@ import com.blindjobs.ihome.dto.OperationData;
 
 import java.util.UUID;
 
+/**
+ * TRABALHO IMOBILIARIA (POO): DADOS DOS INTEGRANTES
+ *
+ * @author KAROLYNE COELHO DE LIMA
+ * @author GABRIELA SILVA DE FARIAS BETINI
+ * @author KELVEN BENTO FONTES
+ * @author VICENZO GIOVANI CARRA LIMA
+ * @author GUILHERME PERES LINS DA PALMA
+ * @author DOUGLAS WALLACE RODRIGUES JUNIOR
+ */
 public interface UniqueRegisterOperationsInterface<T> {
 
     /**
